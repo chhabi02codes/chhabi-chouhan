@@ -6,7 +6,7 @@ Hi, I'm Chhabi Chouhan
 - Blending Electronics with AI  
 
 💡 *Vision*  
-"To create technology that improves society and makes life easier."  
+"building solutions that empower people and shape a smarter future."  
 
 ---
 
@@ -15,10 +15,6 @@ Hi, I'm Chhabi Chouhan
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Chip Design](https://img.shields.io/badge/Chip%20Design-grey?logo=semiconductor-manufacturing)
-![PLC](https://img.shields.io/badge/PLC-blue?logo=siemens&logoColor=white)
 
 ---
 
